@@ -1,0 +1,5 @@
+= GA-Simple
+
+Simple Java + Gradle projects to test out some GitHub actions.
+
+Follow this tutorial: https://www.youtube.com/watch?v=R8_veQiYBjI
